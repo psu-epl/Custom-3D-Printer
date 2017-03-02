@@ -8,7 +8,7 @@ Beginning with a scrapped RepRap printer and possibly whatever other scrap can b
  - Prefer to set up for nylon
  
 ### Salvaged parts:
- #### RepRap:
+#### RepRap:
  - Guide rails (x6) Mixed lengths
  - Stepper motors (x5) 
  - Bearings (x6) standard 608
