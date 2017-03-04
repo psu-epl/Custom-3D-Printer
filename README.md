@@ -7,6 +7,9 @@ Beginning with a scrapped RepRap printer and possibly whatever other scrap can b
  - Cost should remain under $100 
  - Prefer to set up for nylon
  
+### Dimensions:
+ - ??? we dont know yet
+ 
 ### Salvaged parts:
 #### RepRap:
  - Guide rails (x6) Mixed lengths
